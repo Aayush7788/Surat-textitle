@@ -2,11 +2,11 @@
 ## Project: Surat-Link (Textile Labor OS)
 
 ### 1. Introduction
-**Purpose:** Connect Surat textile manufacturers with labor contractors (Thekedars).
-**Core Problem:** Information asymmetry. Manufacturers have idle machines; Contractors have idle labor.
+**Purpose:** Connect Surat textile manufacturers with labor workers.
+**Core Problem:** Information asymmetry. Manufacturers have idle machines, and workers not able to find work.
 
 ### 2. User Personas
-*   **Manufacturer (Admin/Web):** Posts requirements (e.g., "Need 50 Water-Jet Loom Workers").
+*   **Manufacturer (Admin/Web):** Posts requirements (e.g., "Need Water-Jet Loom Workers").
 *   **Contractor (Mobile/WhatsApp):** Bids on requirements. Manages workforce.
 *   **Worker (Passenger):** Passive entity managed by the Contractor.
 
